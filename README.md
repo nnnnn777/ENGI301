@@ -14,7 +14,7 @@ This device was created to automate a Lasko brand box fan, or other similar box 
 This device features LEDs, buttons, and a servo motor. Bluetooth integration will be added in the future.
 
 ## Set Up
-Instructions on device build and set up can be found at the following Hackster page: [Hackster](https://github.com/)
+Instructions on device build and set up can be found at the following Hackster page: [Hackster](https://www.hackster.io/511889/ez-cool-1-0-pocketbeagle-5790c5)
 
 
 ## Usage
