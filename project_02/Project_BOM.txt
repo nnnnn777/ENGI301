@@ -1,0 +1,14 @@
+Partlist exported from /Users/nate/Downloads/ENGI301/project_02/Project.sch at 12/17/23 12:13 AM
+
+Qty Value         Device        Package        Parts                              Description                                    
+1   0.1           R_R0805       R0805          R4                                 RESISTOR, American symbol                      
+3   1k            R_R0603       R0603          R1, R2, R3                         RESISTOR, American symbol                      
+1   BLUE_LED      LED           EIA-STD        D4                                 EIA-STD LED, LTST-C191TBKT                     
+6   FIDUCIAL      FIDUCIAL      FIDUCIAL_40MIL FUD1, FUD2, FUD3, FUD4, FUD5, FUD6                                                
+1   GREEN_LED     LED           EIA-STD        D3                                 EIA-STD LED, LTST-C191TBKT                     
+4   MOUNTING_HOLE MOUNTING_HOLE MOUNTING_HOLE  MGT1, MGT2, MGT3, MGT4             Chassis Mounting Hole w/GND connection ability 
+1   POCKETBEAGLE  POCKETBEAGLE  POCKETBEAGLE   U1                                                                                
+3   PUSH_BUTTON   PUSH_BUTTON   BUTTON_12.5MM  SW1, SW2, SW3                                                                     
+1   RED_LED       LED           EIA-STD        D1                                 EIA-STD LED, LTST-C191TBKT                     
+1   SERVO_SG90    SERVO_SG90    SERVO-X1       U2                                                                                
+1   YELLOW_LED    LED           EIA-STD        D2                                 EIA-STD LED, LTST-C191TBKT                     
